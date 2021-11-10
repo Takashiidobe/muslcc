@@ -1,0 +1,156 @@
+url = "https://musl.cc/aarch64-linux-musl-cross.tgz"
+output = "toolchains/arch64-linux-musl-cross.tgz"
+
+url = "https://musl.cc/aarch64_be-linux-musl-cross.tgz"
+output = "toolchains/aarch64_be-linux-musl-cross.tgz"
+
+url = "https://musl.cc/arm-linux-musleabi-cross.tgz"
+output = "toolchains/arm-linux-musleabi-cross.tgz"
+
+url = "https://musl.cc/arm-linux-musleabihf-cross.tgz"
+output = "toolchains/arm-linux-musleabihf-cross.tgz"
+
+url = "https://musl.cc/armeb-linux-musleabi-cross.tgz"
+output = "toolchains/armeb-linux-musleabi-cross.tgz"
+
+url = "https://musl.cc/armeb-linux-musleabihf-cross.tgz"
+output = "toolchains/armeb-linux-musleabihf-cross.tgz"
+
+url = "https://musl.cc/armel-linux-musleabi-cross.tgz"
+output = "toolchains/armel-linux-musleabi-cross.tgz"
+
+url = "https://musl.cc/armel-linux-musleabihf-cross.tgz"
+output = "toolchains/armel-linux-musleabihf-cross.tgz"
+
+url = "https://musl.cc/armv5l-linux-musleabi-cross.tgz"
+output = "toolchains/armv5l-linux-musleabi-cross.tgz"
+
+url = "https://musl.cc/armv5l-linux-musleabihf-cross.tgz"
+output = "toolchains/armv5l-linux-musleabihf-cross.tgz"
+
+url = "https://musl.cc/armv6-linux-musleabi-cross.tgz"
+output = "toolchains/armv6-linux-musleabihf-cross.tgz"
+
+url = "https://musl.cc/armv7l-linux-musleabihf-cross.tgz"
+output = "toolchains/armv7l-linux-musleabihf-cross.tgz"
+
+url = "https://musl.cc/armv7m-linux-musleabi-cross.tgz"
+output = "toolchains/armv7m-linux-musleabi-cross.tgz"
+
+url = "https://musl.cc/armv7r-linux-musleabihf-cross.tgz"
+output = "toolchains/armv7r-linux-musleabihf-cross.tgz"
+
+url = "https://musl.cc/i486-linux-musl-cross.tgz"
+output = "toolchains/i486-linux-musl-cross.tgz"
+
+url = "https://musl.cc/i686-linux-musl-cross.tgz"
+output = "toolchains/i686-linux-musl-cross.tgz"
+
+url = "https://musl.cc/i686-w64-mingw32-cross.tgz"
+output = "toolchains/i686-w64-mingw32-cross.tgz"
+
+url = "https://musl.cc/m68k-linux-musl-cross.tgz"
+output = "toolchains/m68k-linux-musl-cross.tgz"
+
+url = "https://musl.cc/microblaze-linux-mul-cross.tgz"
+output = "toolchains/microblaze-linux-mul-cross.tgz"
+
+url = "https://musl.cc/microblazeel-linux-musl-cross.tgz"
+output = "toolchains/microblazeel-linux-musl-cross.tgz"
+
+url = "https://musl.cc/mips-linux-musl-cross.tgz"
+output = "toolchains/mips-linux-musl-cross.tgz"
+
+url = "https://musl.cc/mips-linux-musln32sf-cross.tgz"
+output = "toolchains/mips-linux-musln32sf-cross.tgz"
+
+url = "https://musl.cc/mips-linux-muslsf-cross.tgz"
+output = "toolchains/mips-linux-muslsf-cross.tgz"
+
+url = "https://musl.cc/mips64-linux-musl-cross.tgz"
+output = "toolchains/mips64-linux-musl-cross.tgz"
+
+url = "https://musl.cc/mips64-linux-musln32-cross.tgz"
+output = "toolchains/mips64-linux-musln32-cross.tgz"
+
+url = "https://musl.cc/mips64-linux-musln32sf-cross.tgz"
+output = "toolchains/mips64-linux-musln32sf-cross.tgz"
+
+url = "https://musl.cc/mips64el-linux-musl-cross.tgz"
+output = "toolchains/mips64el-linux-musl-cross.tgz"
+
+url = "https://musl.cc/mips64el-linux-musln32-cross.tgz"
+output = "toolchains/mips64el-linux-musln32-cross.tgz"
+
+url = "https://musl.cc/mips64el-linux-musln32sf-cross.tgz"
+output = "toolchains/mips64el-linux-musln32sf-cross.tgz"
+
+url = "https://musl.cc/mipsel-linux-musl-cross.tgz"
+output = "toolchains/mipsel-linux-musl-cross.tgz"
+
+url = "https://musl.cc/mipsel-linux-musln32-cross.tgz"
+output = "toolchains/mipsel-linux-musln32-cross.tgz"
+
+url = "https://musl.cc/mipsel-linux-musln32sf-cross.tgz"
+output = "toolchains/mipsel-linux-musln32sf-cross.tgz"
+
+url = "https://musl.cc/mipsel-linux-muslsf-cross.tgz"
+output = "toolchains/mipsel-linux-muslsf-cross.tgz"
+
+url = "https://musl.cc/or1k-linux-musl-cross.tgz"
+output = "toolchains/or1k-linux-musl-cross.tgz"
+
+url = "https://musl.cc/powerpc-linux-musl-cross.tgz"
+output = "toolchains/powerpc-linux-musl-cross.tgz"
+
+url = "https://musl.cc/powerpc-linux-muslsf-cross.tgz"
+output = "toolchains/powerpc-linux-muslsf-cross.tgz"
+
+url = "https://musl.cc/powerpc64-linux-musl-cross.tgz"
+output = "toolchains/powerpc64-linux-musl-cross.tgz"
+
+url = "https://musl.cc/powerpc64le-linux-musl-cross.tgz"
+output = "toolchains/powerpc64le-linux-musl-cross.tgz"
+
+url = "https://musl.cc/powerpcle-linux-musl-cross.tgz"
+output = "toolchains/powerpcle-linux-musl-cross.tgz"
+
+url = "https://musl.cc/powerpcle-linux-muslsf-cross.tgz"
+output = "toolchains/powerpcle-linux-muslsf-cross.tgz"
+
+url = "https://musl.cc/riscv32-linux-musl-cross.tgz"
+output = "toolchains/riscv32-linux-musl-cross.tgz"
+
+url = "https://musl.cc/riscv64-linux-musl-cross.tgz"
+output = "toolchains/riscv64-linux-musl-cross.tgz"
+
+url = "https://musl.cc/s390x-linux-musl-cross.tgz"
+output = "toolchains/s390x-linux-musl-cross.tgz"
+
+url = "https://musl.cc/sh2-linux-musl-cross.tgz"
+output = "toolchains/sh2-linux-musl-cross.tgz"
+
+url = "https://musl.cc/sh2-linux-muslfdpic-cross.tgz"
+output = "toolchains/sh2-linux-muslfdpic-cross.tgz"
+
+url = "https://musl.cc/sh2eb-linux-musl-cross.tgz"
+output = "toolchains/h2eb-linux-musl-cross.tgz"
+
+url = "https://musl.cc/sh2eb-linux-muslfdpic-cross.tgz"
+output = "toolchains/h2eb-linux-muslfdpic-cross.tgz"
+
+url = "https://musl.cc/sh4-linux-musl-cross.tgz"
+output = "toolchains/sh4-linux-musl-cross.tgz"
+
+url = "https://musl.cc/sh4eb-linux-musl-cross.tgz"
+output = "toolchains/sh4eb-linux-musl-cross.tgz"
+
+url = "https://musl.cc/x86_64-linux-musl-cross.tgz"
+output = "toolchains/x86_64-linux-musl-cross.tgz"
+
+url = "https://musl.cc/x86_64-linux-muslx32-cross.tgz"
+output = "toolchains/x86_64-linux-muslx32-cross.tgz"
+
+url = "https://musl.cc/x86_64-w64-mingw32-cross.tgz"
+output = "toolchains/x86_64-w64-mingw32-cross.tgz"
+
