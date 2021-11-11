@@ -1,5 +1,5 @@
 url = "https://musl.cc/aarch64-linux-musl-cross.tgz"
-output = "toolchains/arch64-linux-musl-cross.tgz"
+output = "toolchains/aarch64-linux-musl-cross.tgz"
 
 url = "https://musl.cc/aarch64_be-linux-musl-cross.tgz"
 output = "toolchains/aarch64_be-linux-musl-cross.tgz"
@@ -27,6 +27,9 @@ output = "toolchains/armv5l-linux-musleabi-cross.tgz"
 
 url = "https://musl.cc/armv5l-linux-musleabihf-cross.tgz"
 output = "toolchains/armv5l-linux-musleabihf-cross.tgz"
+
+url = "https://musl.cc/armv6-linux-musleabi-cross.tgz"
+output = "toolchains/armv6-linux-musleabi-cross.tgz"
 
 url = "https://musl.cc/armv6-linux-musleabi-cross.tgz"
 output = "toolchains/armv6-linux-musleabihf-cross.tgz"
