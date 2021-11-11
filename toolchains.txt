@@ -134,10 +134,10 @@ url = "https://musl.cc/sh2-linux-muslfdpic-cross.tgz"
 output = "toolchains/sh2-linux-muslfdpic-cross.tgz"
 
 url = "https://musl.cc/sh2eb-linux-musl-cross.tgz"
-output = "toolchains/h2eb-linux-musl-cross.tgz"
+output = "toolchains/sh2eb-linux-musl-cross.tgz"
 
 url = "https://musl.cc/sh2eb-linux-muslfdpic-cross.tgz"
-output = "toolchains/h2eb-linux-muslfdpic-cross.tgz"
+output = "toolchains/sh2eb-linux-muslfdpic-cross.tgz"
 
 url = "https://musl.cc/sh4-linux-musl-cross.tgz"
 output = "toolchains/sh4-linux-musl-cross.tgz"
