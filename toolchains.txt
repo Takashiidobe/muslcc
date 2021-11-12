@@ -55,8 +55,8 @@ output = "toolchains/i686-w64-mingw32-cross.tgz"
 url = "https://musl.cc/m68k-linux-musl-cross.tgz"
 output = "toolchains/m68k-linux-musl-cross.tgz"
 
-url = "https://musl.cc/microblaze-linux-mul-cross.tgz"
-output = "toolchains/microblaze-linux-mul-cross.tgz"
+url = "https://musl.cc/microblaze-linux-musl-cross.tgz"
+output = "toolchains/microblaze-linux-musl-cross.tgz"
 
 url = "https://musl.cc/microblazeel-linux-musl-cross.tgz"
 output = "toolchains/microblazeel-linux-musl-cross.tgz"
