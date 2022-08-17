@@ -156,4 +156,3 @@ output = "toolchains/x86_64-linux-muslx32-cross.tgz"
 
 url = "https://musl.cc/x86_64-w64-mingw32-cross.tgz"
 output = "toolchains/x86_64-w64-mingw32-cross.tgz"
-
